@@ -8,23 +8,20 @@ The tutorial is split by weekdays. Each weekday folder contains corresponding Ju
 
 The tutorial agenda:
 
-Monday, June 26
-- [10:00 AM - 10:05 AM] Opening by Yuri Alexeev
-- [10:05 AM - 11:00 AM] Introduction to Quantum Computing and Qiskit
-- [11:00 AM - 12:00 PM] Qiskit Hands-On
-
-Tuesday, June 14
-- [10:00 AM - 11:00 AM] VQE Introduction
-- [11:00 AM - 12:00 PM] VQE Hands-On
-
-Wednesday, June 15
-- [10:00 AM - 11:00 AM] QAOA Introduction
-- [11:00 AM - 12:00 PM] QAOA Hands-On
-
-Thursday, June 16
-- [10:00 AM - 11:00 AM] Quantum Machine Learning Introduction
-- [11:00 AM - 12:00 PM] Quantum Machine Learning Hands-On
-
-Friday, June 17
-- [10:00 AM - 11:00 AM] Error Correction and Mitigation Introduction
-- [11:00 AM - 12:00 PM] Error Correction and Mitigation Hands-On
+June 26	1:00 - 2:00 PM	Quantum Optimization by Ruslan Shaydulin
+	2:00 - 2:10 PM	Break
+	2:10 - 3:10 PM	Quantum Optimization Hands-On
+June 27	1:00 - 2:00 PM	Quantum Machine Learning Introduction by Junyu Liu
+	2:00 - 2:10 PM	Break
+	2:10 - 3:10 PM	Quantum Machine Learning Hands-On
+June 28	1:00 - 2:00 PM	Tensor Network Theory Introduction by Danylo Lykov
+	2:00 - 2:10 PM	Break
+	2:10 - 3:10 PM	QTensor AI Application by Henry Liu
+	3:10 - 3:20 PM	Break
+	3:20 - 4:20 PM	Quantum Network Simulator: SeQUeNCe by Rajkumar Kettimuthu, Joaquin Chung, and Alexander Kolar
+June 29	1:00 - 2:00 PM	Error Correction and Mitigation Theory by Sahil Gulania
+	2:00 - 2:10 PM	Break
+	2:10 - 3:30 PM	Error Correction and Mitigation Hands-On
+June 30	1:00 - 2:00 PM	Quantum Control Theory by Paul Kairys
+	2:00 - 2:10 PM	Break
+	2:10 - 3:30 PM	Quantum Control Hands-On
