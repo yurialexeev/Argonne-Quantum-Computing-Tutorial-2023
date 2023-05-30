@@ -9,9 +9,9 @@ The tutorial is split by weekdays. Each weekday folder contains corresponding Ju
 The tutorial agenda:
 
 June 26	
-1:00 - 2:00 PM	Quantum Optimization by Ruslan Shaydulin
-2:00 - 2:10 PM	Break
-2:10 - 3:10 PM	Quantum Optimization Hands-On
+1:00 - 2:00 PM	Quantum Optimization by Ruslan Shaydulin 
+2:00 - 2:10 PM	Break 
+2:10 - 3:10 PM	Quantum Optimization Hands-On 
 	
 June 27	1:00 - 2:00 PM	Quantum Machine Learning Introduction by Junyu Liu
 	2:00 - 2:10 PM	Break
