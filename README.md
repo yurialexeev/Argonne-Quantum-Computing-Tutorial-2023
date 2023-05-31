@@ -13,7 +13,7 @@ The tutorial agenda:
 | June 26 | 1:00 - 2:00 PM  | Quantum Optimization by Ruslan Shaydulin            |
 |         | 2:00 - 2:10 PM  | Break                                               |
 |         | 2:10 - 3:10 PM  | Quantum Optimization Hands-On                        |
-| June 27 | 1:00 - 2:00 PM  | Quantum Machine Learning Introduction by Junyu Liu  |
+| June 27 | 1:00 - 2:00 PM  | Quantum Machine Learning Introduction by Han Zheng  |
 |         | 2:00 - 2:10 PM  | Break                                               |
 |         | 2:10 - 3:10 PM  | Quantum Machine Learning Hands-On                    |
 | June 28 | 1:00 - 2:00 PM  | Tensor Network Theory Introduction by Danylo Lykov   |
