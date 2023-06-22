@@ -28,7 +28,7 @@ The tutorial agenda:
 | June 29 | 1:00 - 2:00 PM  | Quantum Control Theory by Paul Kairys                |
 |         | 2:00 - 2:10 PM  | Break                                               |
 |         | 2:10 - 3:30 PM  | Quantum Control Hands-On by Paul Kairys |
-| June 30 | 1:00 - 2:00 PM  | Error Correction Theory by Sahil Gulania |
+| June 30 | 1:00 - 2:00 PM  | Error Correction and Mitigation Theory by Sahil Gulania |
 |         | 2:00 - 2:10 PM  | Break                                               |
-|         | 2:10 - 3:30 PM  | Error Mitigation Theory and Applications by Quinn Langfitt       |
+|         | 2:10 - 3:30 PM  | Error Correction and Mitigation Hands-On by Sahil Gulania       |
                           
